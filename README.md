@@ -1,5 +1,5 @@
 
-The zip file contains Five folders
+The zip file contains Five folders (download from here https://doi.org/10.1039/D1SM01825F)
 
 .mol2 files of epoxy and crosslinker are provided. 
 
